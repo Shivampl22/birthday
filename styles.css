@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: whitesmoke;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-weight: 900;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: whitesmoke;
+  font-family: 'Rubik Microbe', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.ballons{
+  text-align: left;
+  height: 400px;
+  position: relative;
+  bottom: 150px;
+  
+}
+.ballons-2{
+  text-align: right;
+  height: 400px;
+  position: relative;
+  bottom: 350px;
+}
+.kanishka-images{
+  height: 350px;
+  text-align: right;
+  position: relative;
+  bottom: 300px;
+  right: 16px;
+  border-radius: 10%;
+ 
+ 
+}
+.kanishka-images2{
+ width: 250px;
+  text-align: left;
+  position: relative;
+  bottom: 475px; 
+  left: 16px;
+  border-radius: 10%;
+
+}
+.date{
+  font-size: 1.5rem;
+}
